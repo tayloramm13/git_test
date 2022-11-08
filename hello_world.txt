@@ -1,0 +1,3 @@
+Learning how git works!
+"Hello Git World!"
+"My brain hurts haha"
